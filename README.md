@@ -7,7 +7,7 @@ Welcome to my GitHub portfolio! I am passionate about **Cybersecurity, Data Scie
 ---
 
 ## 📌 About Me
-- 🎓 **B.Tech in Computer Science** - Dayalbagh Educational Institute (2021 - 2025)
+- 🎓 **B.Tech** - Dayalbagh Educational Institute (2021 - 2025)
 - 🛡️ **Cybersecurity & Penetration Testing** at **Silogix Nanosystems & Hex Tech Solutions**
 - 📊 **Data Science Intern** at **EvoAstra Ventures Pvt Ltd**
 - 🏆 **Finalist in Hackathon HackBvest 2021** | **Winner - Smart India Hackathon 2023**
@@ -45,7 +45,6 @@ Welcome to my GitHub portfolio! I am passionate about **Cybersecurity, Data Scie
 - **Cybersecurity Intern** @ Silogix Nanosystems (April 2024 – Aug 2024)
 - **Penetration Tester** @ Hex Tech Solutions (April 2024 – Aug 2024)
 - **Data Scientist Intern** @ EvoAstra Ventures (July 2024 – Aug 2024)
-- **Material Testing Intern** @ Sleen Bizventure Pvt Ltd (May 2023 – June 2023)
 
 ---
 
@@ -60,7 +59,7 @@ Welcome to my GitHub portfolio! I am passionate about **Cybersecurity, Data Scie
 ## 🌍 Connect with Me
 🔗 **LinkedIn:** [rohit-sharma-04b913223](https://www.linkedin.com/in/rohit-sharma-04b913223)  
 📧 **Email:** rohitsharma97.work@gmail.com  
-📂 **GitHub:** [GitHub Profile](https://github.com/YOUR_GITHUB_USERNAME)
+📂 **GitHub:** [RohitSharma2004](https://github.com/RohitSharma2004)
 
 ---
 
